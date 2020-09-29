@@ -9,20 +9,21 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
 
 ## Installation
 
-CocoaLumberjackTool is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+在Podfile文件中添加:
 
 ```ruby
 pod 'CocoaLumberjackTool'
 ```
-
+然后控制台进入到文件目录，执行:
+```ruby
+pod install
+```
 ## Author
 
-zhangs1992@126.com, zhangs1992@126.com
+王大奔
 
 ## License
 
