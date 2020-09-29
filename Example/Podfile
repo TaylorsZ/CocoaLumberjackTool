@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CocoaLumberjackTool_Example' do
+  pod 'CocoaLumberjackTool', :path => '../'
+
+  target 'CocoaLumberjackTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
