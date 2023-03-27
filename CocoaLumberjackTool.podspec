@@ -8,14 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CocoaLumberjackTool'
-  s.version          = '1.0.0'
+  s.version          = '2.0.0'
   s.summary          = '真机设备实时显示日志'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = "利用CocoaLumberjack将日志实时的显示在设备屏幕上"
 
